@@ -26,5 +26,6 @@
 
 #### What is nodemon & How to install nodemon in a node project
 => Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected
+
 => Installing command is - "npm install -g nodemon # or using yarn: yarn global add nodemon"
 
