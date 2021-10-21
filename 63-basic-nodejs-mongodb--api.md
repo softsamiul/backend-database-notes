@@ -16,3 +16,15 @@
 
  1. Diffrence between NodeJS & Javascript
  2. Why we should select NodeJS
+
+
+#### How to start a node project
+ 1. Create a directory
+ 2. Initilize npm by "npm init command" => it will create a package.json file
+ 3. Install express js => It will create a package.lock.json file and also a folder names node modules
+ 4. create a index.js file
+
+#### What is nodemon & How to install nodemon in a node project
+=> Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected
+=> Installing command is - "npm install -g nodemon # or using yarn: yarn global add nodemon"
+
