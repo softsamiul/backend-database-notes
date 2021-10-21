@@ -12,3 +12,7 @@
 * `ডাইনামিক api এবং এর মধ্যে parameter কিভাবে পাঠাবে সেই প্যারামিটার কিভাবে সার্ভার সাইড থেকে একসেস করতে পারবে। যদি কখনো api এর মধ্যে query string থাকে সেটা কিভাবে একসেস করবে। `
 * `সার্ভার থেকে ডাটা কিভাবে নিয়ে আসবে সেই ডাটা কিভাবে ওয়েবসাইট এ দেখাবে। সেটা করতে গেলে cors নামক একটা ইস্যু হয়। এই cors জিনিসটা কি `
  
+### Things we need to know about NodeJS
+
+ 1. Diffrence between NodeJS & Javascript
+ 2. Why we should select NodeJS
